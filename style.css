@@ -1,0 +1,55 @@
+html, body {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 1em;
+}
+a{
+    text-decoration: none;
+}
+/* 
+
+Colour Library
+
+*/ 
+
+.primary-grey-900 {
+    background-color: #393f41;
+    color:#393f41;
+}
+
+.primary-beige-100 {
+    background-color: #e7e5df;
+    color:#e7e5df;
+}
+
+.primary-blue-950 {
+    background-color: #032863;
+    color:#032863;
+}
+
+.primary-teal-600 {
+    background-color: #0692b1;
+    color: #0692b1;
+}
+
+.primary-purple-400 {
+    background-color: #bd93d8;
+    color: #bd93d8;
+}
+
+/*
+
+Typography
+
+*/
+
+/* 
+FOR HTML LATER
+<link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300&display=swap" rel="stylesheet">
+*/ 
+
+h1 {font-family: 'Merriweather'; font-size: 2.5em; font-style: normal; font-weight: 300; line-height: 52px; letter-spacing: 0.5px; color: #393f41; margin-bottom: 40px;}
+h2 {font-family: 'Merriweather'; font-size: 2.0em; font-style: normal; font-weight: 400; line-height: 40px; letter-spacing: 0.1px; color: #393f41; margin-bottom: 24PX;}
+h3 {font-family: 'Merriweather'; font-size: 1.5em; font-style: normal; font-weight: 700; line-height: 32px; letter-spacing: 0.2px; color: #393f41; margin-bottom: 24px;}
+h4 {font-family: 'Merriweather Sans'; font-size: 1.0em; font-style: normal; font-weight: 800; line-height: 20px; letter-spacing: 0.4px; color: #393f41; margin-top: 8px; margin-bottom: 8px;}
+p  {font-family: 'Merriweather Sans'; font-size: 1.0em; font-style: normal; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; color: #393f41; margin-bottom: 24px;}
+.caption {font-family: 'Merriweather Sans'; font-size: 0.75em; font-style: normal; font-weight: 300; line-height: 14px; letter-spacing: 0.1px; color: #393f41; margin-bottom: 8px;}
